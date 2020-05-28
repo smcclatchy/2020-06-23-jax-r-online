@@ -235,13 +235,8 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 {% endcomment %}
 <h2 id="schedule">Schedule</h2>
 
-{% if site.carpentry == "swc" %}
 {% include swc/schedule.html %}
-{% elsif site.carpentry == "dc" %}
-{% include dc/schedule.html %}
-{% elsif site.carpentry == "lc" %}
-{% include lc/schedule.html %}
-{% endif %}
+
 
 <hr/>
 
