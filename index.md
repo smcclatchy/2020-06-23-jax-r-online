@@ -7,7 +7,7 @@ language: "en"
 latitude: "44.365545"        
 longitude: "-68.196936"      
 humandate: "Tues/Thurs, June 23-July 2, 2020"
-humantime: "1:00 - 2:30 pm"
+humantime: "1:00 - 2:30pm"
 startdate: 2020-06-23      
 enddate: 2020-07-02
 instructor: ["Selcan Aydin", "Sue McClatchy"]
