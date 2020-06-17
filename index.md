@@ -13,7 +13,7 @@ enddate: 2020-07-02
 instructor: ["Selcan Aydin", "Sue McClatchy"]
 helper: ["Isabela Gerdes Gyuricza", "Alexis Catherine Garretson", "Amnah Siddiqa"]   
 email: ["susan.mcclatchy@jax.org"] 
-collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+collaborative_notes: https://pad.carpentries.org/2020-06-23-jax-r-online
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
